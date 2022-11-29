@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>freeCodeCamp Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <label id="name-label">Name<input id="name" type="text" placeholder="Name of your cat" required/>
+      </label>
+      <label id="email-label"><input id="email"  type="email" placeholder="email" required/>
+      </label>
+      <label id="number-label">Number<input id="number"  type="number" min="0" max="500" placeholder="Pick a number between 0 and 500"required/></label>
+
+      <label for="referrer">How did you hear about us?
+      <select id="dropdown">
+      <option value="">(select one)</option>
+      <option value="1">You did it!</option>
+      </select>
+      </label>
+
+      <label for="Yes"><input id="Yes" type="radio" name="yes-no-button" value="yes"/> Yes</label>
+      <label for="No"><input id="No" type="radio" name="yes-no-button" value="yes"/> No</label>  
+    
+      <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+      <input id="lazy" type="checkbox" name="personality"  value="lazy"> <label for="lazy">Lazy</label>
+      <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+    
+    <label for="bio">Provide a bio:
+      <textarea id="bio" name="bio" rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>
+    </label>
+
+    <input type="submit" value="Submit" id="submit"/>
+    
+    </form>
+
+</body>
+</html>
