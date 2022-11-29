@@ -1,6 +1,4 @@
-# Website Development Education Assignments
-
-Front End web development and design education: 
+# Front End Website Development Educational Assignments
 
 Resources used are 
 
@@ -11,4 +9,4 @@ Resources used are
 
 Completed web page assignments are in this repo and available for viewing through [https://laurenc2022.github.io/web-dev-edu/]( https://laurenc2022.github.io/web-dev-edu/). 
 
-The purpose of posting the repository is to quickly look back on code snippets and educational project to complete professional projects quickly and accurately. 
+The purpose of posting educational assignments in a repository is to reference code snippets and completed projects. I expect this repo will help with recall when I am stuck on a simple project.  
