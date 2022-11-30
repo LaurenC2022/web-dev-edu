@@ -11,6 +11,10 @@ Completed web page assignments are in this repo and available for viewing throug
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects. I expect this repo will help with recall when I am stuck on a simple project.  
 
+## MDN Web Docs
+### Semantics and structure with HTML
+#### Introduction to HTML 
+
 ## Free Code Camp 
 ### Responsive Web Design
 #### Section 1

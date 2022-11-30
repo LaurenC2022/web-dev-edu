@@ -1,62 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>freeCodeCamp Survey Form</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
 
-  <body>
-    <h1 id="title">freeCodeCamp Survey Form</h1>
-    <p id="description">This page is a survey form. Thank you for taking the time to help us improve the platform.</p>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp Survey Form</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
 
-    <form id="survey-form">
-      <fieldset>
-      <label id="name-label">Name:<input id="name" type="text" placeholder="Example: Sir Fluffy of Fluffyton" required/>
+<body>
+  <h1 id="title">freeCodeCamp Survey Form</h1>
+  <p id="description">This page is a survey form. Thank you for taking the time to help us improve the platform.</p>
+
+  <form id="survey-form">
+    <fieldset>
+      <label id="name-label">Name:<input id="name" type="text" placeholder="Example: Sir Fluffy of Fluffyton"
+          required />
       </label>
 
-      <label id="email-label">Email:<input id="email"  type="email" placeholder="email" required/>
+      <label id="email-label">Email:<input id="email" type="email" placeholder="email" required />
       </label>
 
     </fieldset>
 
     <fieldset>
-      <label id="number-label">Number:<input id="number"  type="number" min="0" max="500" placeholder="What is your cat's favorite number?"required/></label>
+      <label id="number-label">Number:<input id="number" type="number" min="0" max="500"
+          placeholder="What is your cat's favorite number?" required /></label>
     </fieldset>
     <fieldset>
       <label for="referrer">How did you hear about us?
-      <select id="dropdown">
-      <option value="">(Please, select one)</option>
-      <option value="1">Word of mouth</option>
-      <option value="1">My cat guided me here</option>
-      <option value="1">Search engine</option>
-      </select>
+        <select id="dropdown">
+          <option value="">(Please, select one)</option>
+          <option value="1">Word of mouth</option>
+          <option value="1">My cat guided me here</option>
+          <option value="1">Search engine</option>
+        </select>
     </fieldset>
     <fieldset>
       </label>
 
-      <label for="yes-no-button">Does your cat need a brother or sister cat? 
-      <label for="Yes"><input id="Yes" type="radio" name="yes-no-button" value="yes" class="inline"/> Yes</label>
-      <label for="No"><input id="No" type="radio" name="yes-no-button" value="yes" class="inline"/> No</label>  
+      <label for="yes-no-button">Does your cat need a brother or sister cat?
+        <label for="Yes"><input id="Yes" type="radio" name="yes-no-button" value="yes" class="inline" /> Yes</label>
+        <label for="No"><input id="No" type="radio" name="yes-no-button" value="yes" class="inline" /> No</label>
       </label>
     </fieldset>
     <fieldset>
 
       <label for="cat-character">Please check all that applies to your cat:
-      <label for="loving"><input class="inline" id="loving" type="checkbox" name="personality" value="loving" checked>Loving</label>
-      <label for="lazy"><input class="inline" id="lazy" type="checkbox" name="personality"  value="lazy">Lazy</label>
-      <label for="energetic"><input class="inline" id="energetic" type="checkbox" name="personality" value="energetic">Energetic</label>
-     </label>
+        <label for="loving"><input class="inline" id="loving" type="checkbox" name="personality" value="loving"
+            checked>Loving</label>
+        <label for="lazy"><input class="inline" id="lazy" type="checkbox" name="personality" value="lazy">Lazy</label>
+        <label for="energetic"><input class="inline" id="energetic" type="checkbox" name="personality"
+            value="energetic">Energetic</label>
+      </label>
 
     </fieldset>
     <fieldset>
-    <label for="bio">Why do you love your cat?
-      <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Please describe the best qualities of your cat..."></textarea>
-    </label>
-  </fieldset>
-    <input type="submit" value="Submit" id="submit"/>
-    
-    </form>
+      <label for="bio">Why do you love your cat?
+        <textarea id="bio" name="bio" rows="3" cols="30"
+          placeholder="Please describe the best qualities of your cat..."></textarea>
+      </label>
+    </fieldset>
+    <input type="submit" value="Submit" id="submit" />
+
+  </form>
 
 </body>
+
 </html>
