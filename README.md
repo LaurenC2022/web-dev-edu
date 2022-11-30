@@ -1,19 +1,17 @@
 # Front End Website Development Educational Assignments
 
-Resources used are 
+Resources: 
 
-- Free Code Camp 
-- MDN Web Docs
-- Web Coding & Development a book by Paul McFedries
-- web development course on Udemy by The London App Brewery 
+- [Free Code Camp](https://www.freecodecamp.org) 
+- MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) 
+- Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd)
+- Full Stack Web Development course by The App Brewery [Link here](https://appbrewery.com/p/the-complete-web-development-course)
 
 See this repository as a website [HERE](https://laurenc2022.github.io/web-dev-edu/). 
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
 ## MDN Web Docs
-- [Link to WDN Web Docs website](https://developer.mozilla.org/en-US/)
-- [Link to WDN Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 ### Semantics and structure with HTML
 #### Introduction to HTML 
 
@@ -33,5 +31,4 @@ The purpose of posting educational assignments in a repository is to reference c
 - Certification Project 2: Tribute Page
 
 ## Web Coding & Development a book by Paul McFedries
-- [Link to Book](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd)
 - [Link to Code Snippets Source](https://www.paulmcfedries.com/webcodingfordummies/)
