@@ -26,7 +26,7 @@ The purpose of posting educational assignments in a repository is to reference c
 #### Section 2
 - Rothko Painting 
 - Photo Gallery
-- Nutrition Labe
+- Nutrition Label
 - Building a Quiz 
 - Certification Project 2: Tribute Page
 
