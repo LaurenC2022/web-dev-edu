@@ -26,6 +26,7 @@
       <label id="number-label">Number:<input id="number" type="number" min="0" max="500"
           placeholder="What is your cat's favorite number?" required /></label>
     </fieldset>
+
     <fieldset>
       <label for="referrer">How did you hear about us?
         <select id="dropdown">
@@ -35,23 +36,27 @@
           <option value="1">Search engine</option>
         </select>
     </fieldset>
-    <fieldset>
-      </label>
 
-      <label for="yes-no-button">Does your cat need a brother or sister cat?
-        <label for="Yes"><input id="Yes" type="radio" name="yes-no-button" value="yes" class="inline" /> Yes</label>
-        <label for="No"><input id="No" type="radio" name="yes-no-button" value="yes" class="inline" /> No</label>
-      </label>
+    <fieldset>
+
+      <span>Does your cat need a brother or sister cat?</span>
+
+      <label for="yes-no-button"><input id="Yes" type="radio" name="yes-no-button" value="yes" class="inline" />
+        Yes</label>
+      <label for="yes-no-button"><input id="No" type="radio" name="yes-no-button" value="no" class="inline" />
+        No</label>
+
     </fieldset>
+
     <fieldset>
 
-      <label for="cat-character">Please check all that applies to your cat:
-        <label for="loving"><input class="inline" id="loving" type="checkbox" name="personality" value="loving"
-            checked>Loving</label>
-        <label for="lazy"><input class="inline" id="lazy" type="checkbox" name="personality" value="lazy">Lazy</label>
-        <label for="energetic"><input class="inline" id="energetic" type="checkbox" name="personality"
-            value="energetic">Energetic</label>
-      </label>
+      <span>Please check all that applies to your cat: </span>
+      <label for="loving"><input class="inline" id="loving" type="checkbox" name="personality" value="loving"
+          checked>Loving</label>
+      <label for="lazy"><input class="inline" id="lazy" type="checkbox" name="personality" value="lazy">Lazy</label>
+      <label for="energetic"><input class="inline" id="energetic" type="checkbox" name="personality"
+          value="energetic">Energetic</label>
+
 
     </fieldset>
     <fieldset>
