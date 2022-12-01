@@ -7,7 +7,7 @@ Resources:
 - Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd)
 - Full Stack Web Development course by The App Brewery [Link here](https://appbrewery.com/p/the-complete-web-development-course)
 
-See this repository as a website [HERE](https://laurenc2022.github.io/web-dev-edu/). 
+See this repository as a website [here](https://laurenc2022.github.io/web-dev-edu/). 
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
