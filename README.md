@@ -11,10 +11,6 @@ See this repository as a website [HERE](https://laurenc2022.github.io/web-dev-ed
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
-## MDN Web Docs
-### Semantics and structure with HTML
-#### Introduction to HTML 
-
 ## Free Code Camp 
 ### Responsive Web Design
 #### Section 1
@@ -29,6 +25,16 @@ The purpose of posting educational assignments in a repository is to reference c
 - Nutrition Label
 - Building a Quiz 
 - Certification Project 2: Tribute Page
+
+## MDN Web Docs
+### Semantics and structure with HTML
+#### Introduction to HTML 
+- Getting Started with HTML 
+    - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/1-getting-started-with-html/title-example.html)
+- What's in the Head? Metadata in HTML
+    - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/2-whats-in-th-head-metadata-in-html/meta-example.html)
+- HTML Text Fundamentals 
+    - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/text-start.html)
 
 ## Web Coding & Development a book by Paul McFedries
 - [Link to Code Snippets Source](https://www.paulmcfedries.com/webcodingfordummies/)
