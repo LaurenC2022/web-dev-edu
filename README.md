@@ -35,6 +35,10 @@ The purpose of posting educational assignments in a repository is to reference c
     - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/2-whats-in-th-head-metadata-in-html/meta-example.html)
 - HTML Text Fundamentals 
     - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/text-start.html)
+        - Test your skills: HTML text basics 
+            - [Practice 1]
+            - [Practice 2]
+            - [Practice 3]
 
 ## Web Coding & Development a book by Paul McFedries
 - [Link to Code Snippets Source](https://www.paulmcfedries.com/webcodingfordummies/)
