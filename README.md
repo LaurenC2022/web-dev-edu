@@ -20,7 +20,7 @@ The purpose of posting educational assignments in a repository is to reference c
 - [Registration Form](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/4-Registration-form/registration-form-index.html)
 - [Certification Project 1: Survey Form](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/5-cert-proj-registration-form/survey-form-index.html)
 #### Section 2
-- Rothko Painting 
+- [Rothko Painting](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/6-rhothko-painting/rothko-painting-index.html)
 - Photo Gallery
 - Nutrition Label
 - Building a Quiz 
