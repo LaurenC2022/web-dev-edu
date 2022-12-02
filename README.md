@@ -36,9 +36,9 @@ The purpose of posting educational assignments in a repository is to reference c
 - HTML Text Fundamentals 
     - [Practice Browser Output](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/text-start.html)
         - Test your skills: HTML text basics 
-            - [Practice 1]
-            - [Practice 2] 
-            - [Practice 3] 
+            - [Practice 1](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text1-download.html): Practice with html paragraph and semantic headings 
+            - [Practice 2](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text2-download.html): Practice with 
+            - [Practice 3](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text3-download.html): Practice with strong importance and emphasis, **semantic elements** 
 
 ## Web Coding & Development a book by Paul McFedries
 IMPORTANT:
@@ -49,9 +49,27 @@ IMPORTANT:
 
 ## Book 2: Coding the Front End, Part 1: HTML & CSS
 ### Chaper 3: Sizing and Positioning Page Elements 
-1. Learning About the CSS Box Model: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/1-learning-about-the-css-box-model.html)
-2. Styling Element Sizes: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/2-styling-element-sizes.html)
-3. Adding Padding: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/3-adding-padding.html)
+1. Learning About the CSS Box Model: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/1-pg104-learning-about-the-css-box-model.html)
+
+    - Padding: space around the content within the box
+    - Margin: Space outside of the border seperating the box from other boxes 
+    - border: surrounding the box padding and content
+ 
+2. Styling Element Sizes: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/2-pg105-styling-element-sizes.html)
+ 
+    - Block-level elements (ex: header, div) have width of their parent element. Body element width is set to browser's content area 
+    - Block element's size is content only, excludes padding, boarders and margins
+    - [**Box-sizing: border-box**](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/my-playgrounds/1-box-sizing-my-playground.html) is a CSS property which redefines element's size to include padding, and border 
+    - Best practice: set width and heights for all box elements, so nothing is left up to chance and website always looks the way it is designed
+    - inline element can be made to behave like a block element
+        - Method 1 with CSS: 
+            - dispay: inline-block; 
+            - gives inline element block related properties, but still is inline 
+        - Method 2 with CSS: 
+            - display: block; 
+            - turns inline elements into block elements, inline element will behave exactly like a box element 
+
+3. Adding Padding: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/3-pg107-adding-padding.html)
 4. Collapsing margins ahead! (part one): [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/4-collapsing-margins-ahead-p1.html)
 5. Collapsing margins ahead! (part two): [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/5-Collapsing-margins-ahead-p2.html)
 6. Getting a Grip on Page Flow: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/6-Getting-a-Grip-on-page-flow.html)

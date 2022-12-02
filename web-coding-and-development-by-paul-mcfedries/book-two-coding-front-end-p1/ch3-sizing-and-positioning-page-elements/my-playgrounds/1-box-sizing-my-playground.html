@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Learning About the CSS Box Model</title>
+        
+        <style>
+            /* Box-sizing in * class is important. Now all box elements' sizes include borders and padding */
+            * {
+                box-sizing: border-box;
+            }
+                /* ^^^^^^ THIS RIGHT HERE IS THE MAJOR KEY! Instead of the size including only the content, this code has it include the padding and border as well.  */
+            header {
+                background-color: rebeccapurple;
+                border: 2px solid blue;
+                margin: 20px 0px;
+                color: aliceblue;
+                padding: 0px 30px;
+
+            }
+
+            div {
+                background-color: darkgray;
+                padding: 12px;
+                border: 3px solid black;
+            }
+
+        </style>
+        <script>
+        </script>
+    </head>
+    <body>
+        <header>
+            <span>This is the header</span>
+        </header>
+        <div>
+            <span>This is the div </span>
+        </div>
+    </body>
+</html>
