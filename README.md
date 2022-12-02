@@ -48,8 +48,8 @@ IMPORTANT:
 - [The Webdev Workshop by Paul McFedries](https://webdev.mcfedries.com)
 - Below is my playground. I use this code for educational purposes only. All code here is openly avaliable at the "Link to Code Source" above and at The Webdev Workshop by Paul McFedries. In the below code, I may or may not have altered the original text by Paul McFedries for learning purposes only. Please see book, Link to Code Source and WebDev Workshop by Paul McFedries for more information.  
 
-## Book 2: Coding the Front End, Part 1: HTML & CSS
-### Chaper 3: Sizing and Positioning Page Elements 
+### Book 2: Coding the Front End, Part 1: HTML & CSS
+#### Chaper 3: Sizing and Positioning Page Elements 
 1. Learning About the CSS Box Model: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/1-pg104-learning-about-the-css-box-model.html)
 
     - Padding: space around the content within the box
@@ -85,7 +85,7 @@ IMPORTANT:
 15. giving absolute positioning a whirl: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/15-giving-absolute-positioning-a-whirl.html) 
 16. Trying out fixed positioning: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/16-trying-out-fixed-positioning.html)
 
-### Chaper 4: Creating a Page Layout
+#### Chaper 4: Creating a Page Layout
 1. Laying Out Page Elements with Floats: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/1-Laying-out-page-elements-with-floats.html)
 2. Laying Out Page Elements with Floats (second example): [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/2-Laying-out-page-elements-with-floats-ex2.html) 
 3. Laying Out Page Elements with Inline Blocks: [Link to Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/3-Laying-out-page-elements-with-inline-blocks.html) 
