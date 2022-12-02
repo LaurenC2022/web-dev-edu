@@ -6,6 +6,7 @@ Resources:
 - MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) 
 - Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd)
 - Full Stack Web Development course by The App Brewery [Link here](https://appbrewery.com/p/the-complete-web-development-course)
+- [CodeCademy](https://www.codecademy.com)'s Front End Engineer Path 
 
 See this repository as a website [here](https://laurenc2022.github.io/web-dev-edu/). 
 
@@ -108,3 +109,4 @@ IMPORTANT:
 21. Assigning grid items to rows and columns: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/21-Assigning-grid-items-to-rows-and-columns.html)
 22. Laying content columns with Grid: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/22-Laying-content-columns-with-Grid.html)
 
+## CodeCademy's Front End Engineer Path 
