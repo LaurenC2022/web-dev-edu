@@ -15,7 +15,7 @@ The purpose of posting educational assignments in a repository is to reference c
 ### Responsive Web Design
 #### Section 1
 - [Cat Photo App](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/1-cat-photo-app/cat-photo-app-index.html) 
-- [Cafe Menu](https://laurenc2022.github.io/web-dev-edufree-code-camp-assignments/responsive-web-design-assignments/section1/2-cafe-menu/cafe-menu-index.html)
+- [Cafe Menu](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/2-cafe-menu/cafe-menu-index.html)
 - [Colored Markers](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/3-colored-markers/colored-markers-index.html)
 - [Registration Form](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/4-Registration-form/registration-form-index.html)
 - [Certification Project 1: Survey Form](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/5-cert-proj-registration-form/survey-form-index.html)
