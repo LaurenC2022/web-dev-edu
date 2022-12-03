@@ -13,6 +13,9 @@ See this repository as a website [here](https://laurenc2022.github.io/web-dev-ed
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
 ## Free Code Camp 
+- Free Code Camp does a few things well: Content is easy to start doing without any prior knowledge and no insturctor is required to complete the work. Free Code Camp would be an excellent option as a daily warmup or transition activity for a group who may finish an assignment at different times. 
+- Part of lesson: warm up 
+
 ### Responsive Web Design
 #### Section 1
 - [Cat Photo App](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/1-cat-photo-app/cat-photo-app-index.html) 
@@ -28,6 +31,9 @@ The purpose of posting educational assignments in a repository is to reference c
 - Certification Project 2: Tribute Page
 
 ## MDN Web Docs
+- MDN does a few things well: The content is thorough. Detailed explanations are given throughout each lesson. Active learning is incorporated. MDN is excellent for students who want to know more and ask why. 
+- Part of lesson: textbook reading and independent practice 
+
 ### Semantics and structure with HTML
 #### Introduction to HTML 
 - Getting Started with HTML 
@@ -42,6 +48,9 @@ The purpose of posting educational assignments in a repository is to reference c
             - [Practice 3](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text3-download.html): Practice with strong importance and emphasis, **semantic elements** 
 
 ## Web Coding & Development a book by Paul McFedries
+- Web Coding & Development for Dummies does a few things well: Content is explained in a straight forward and applicable way. While no practice problems are given, this is a great textbook resource. Code snippets are provided as well. 
+- Part of lesson: textbook reading 
+
 IMPORTANT:
 - [Link to Code Source](https://www.paulmcfedries.com/webcodingfordummies/) 
 - Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd). 
@@ -110,3 +119,6 @@ IMPORTANT:
 22. Laying content columns with Grid: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/22-Laying-content-columns-with-Grid.html)
 
 ## CodeCademy's Front End Engineer Path 
+- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. 
+- Part of lesson: Lecture, direct instruction 
+
