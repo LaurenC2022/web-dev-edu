@@ -48,7 +48,7 @@ The purpose of posting educational assignments in a repository is to reference c
             - [Practice 3](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text3-download.html): Practice with strong importance and emphasis, **semantic elements** 
 
 ## Web Coding & Development a book by Paul McFedries
-- Web Coding & Development for Dummies does a few things well: Content is explained in a straight forward and applicable way. While no practice problems are given, this is a great textbook resource. Code snippets are provided as well. 
+- Web Coding & Development for Dummies does a few things well: Content is explained in a straight forward and applicable way. While no practice problems are given, this is a great textbook resource. Code snippets are provided to use in direct instruction/ teacher lead activity or to use as an example. 
 - Part of lesson: textbook reading 
 
 IMPORTANT:
