@@ -119,6 +119,6 @@ IMPORTANT:
 22. Laying content columns with Grid: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/22-Laying-content-columns-with-Grid.html)
 
 ## CodeCademy's Front End Engineer Path 
-- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. 
-- Part of lesson: Lecture, direct instruction 
+- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. 
+- Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading  
 
