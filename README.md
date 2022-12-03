@@ -121,9 +121,13 @@ IMPORTANT:
 ## CodeCademy's Front End Engineer Path 
 - CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. **Major Key**: Includes check for understanding.
 - Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
+- CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet 
 
 ## Lesson Summaries and Review
-- Useful technologies: Note takeing options with ability to run code snippets 
-- Quick run down of what a repo is and 3 commands to learn to start using it 
+- Quick Lesson: Note takeing options with ability to run code snippets 
+- Quick Lesson: run down of what a repo is and 3 commands to learn to start using it 
+- Quick lesson: how to have computer read selected text, the page and turn most webpages into an easy to read format. This allows you to look away if needed to rest your eyes, helps those with learning dissabilities and helps to take notes while progressing through the reading
+Quick Lesson: Where to find help and how to google something you know nothing about/ problem solving with google (maybe give a highly technical sentence and have students break down the sentence by work and figure out what it means. Do 1 to 3 examples first). Students will need to be taught where to look for help: forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io, discord groups. Con: full solutions can be found online
+- Quick lesson: 
 - Lesson 6: 
 
