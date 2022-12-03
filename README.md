@@ -121,7 +121,7 @@ IMPORTANT:
 ## CodeCademy's Front End Engineer Path 
 - CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. **Major Key**: Includes check for understanding.
 - Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
-- CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet. Using Free Code Camp as a warm up would work well with CodeCademy 
+- CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet when completed with the suggested readings. Using Free Code Camp as a warm up would work nicely with CodeCademy and I highly suggest these two for complete beginners. The CodeCademy's Front End Engineer Path is behind a pay wall and cost upwards of $112 a year or a monthly fee to access. Though worth the money, this might not be the best option for someone on a budget. Other free resources listed above are excellent options as well for learning Front End Web development. 
 
 ## Lesson Summaries and Review
 - Quick Lesson: Note takeing options with ability to run code snippets 
