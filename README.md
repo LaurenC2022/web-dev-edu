@@ -13,8 +13,6 @@ See this repository as a website [here](https://laurenc2022.github.io/web-dev-ed
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
 ## Free Code Camp 
-- Free Code Camp does a few things well: Content is easy to start doing without any prior knowledge and no insturctor is required to complete the work. Free Code Camp would be an excellent option as a daily warmup or transition activity for a group who may finish an assignment at different times. Students will need to be taught where to look for help: FCC Forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io. Con: full solutions can be found online
-- Part of lesson: warm up 
 
 ### Responsive Web Design
 #### Section 1
@@ -31,8 +29,6 @@ The purpose of posting educational assignments in a repository is to reference c
 - Certification Project 2: Tribute Page
 
 ## MDN Web Docs
-- MDN does a few things well: The content is thorough. Detailed explanations are given throughout each lesson. Active learning is incorporated. MDN is excellent for students who want to know more and ask why. **Major Key**: Includes check for understanding.
-- Part of lesson: textbook reading and independent practice 
 
 ### Semantics and structure with HTML
 #### Introduction to HTML 
@@ -48,8 +44,6 @@ The purpose of posting educational assignments in a repository is to reference c
             - [Practice 3](https://laurenc2022.github.io/web-dev-edu/mdn-web-docs/intro-to-html/3-html-text-fundamentals/test-your-skills/basic-text3-download.html): Practice with strong importance and emphasis, **semantic elements** 
 
 ## Web Coding & Development a book by Paul McFedries
-- Web Coding & Development for Dummies does a few things well: Content is explained in a straight forward and applicable way. While no practice problems are given, this is a great textbook resource. Code snippets are provided to use in direct instruction/ teacher lead activity or to use as an example. 
-- Part of lesson: textbook reading 
 
 IMPORTANT:
 - [Link to Code Source](https://www.paulmcfedries.com/webcodingfordummies/) 
@@ -119,11 +113,10 @@ IMPORTANT:
 22. Laying content columns with Grid: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/22-Laying-content-columns-with-Grid.html)
 
 ## CodeCademy's Front End Engineer Path 
-- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. **Major Key**: Includes check for understanding.
-- Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
-- CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet when completed with the suggested readings. Using Free Code Camp as a warm up would work nicely with CodeCademy and I highly suggest these two for complete beginners. The CodeCademy's Front End Engineer Path is behind a pay wall and cost upwards of $112 a year or a monthly fee to access. Though worth the money, this might not be the best option for someone on a budget. Other free resources listed above are excellent options as well for learning Front End Web development. 
 
-## If I taught web development 
+
+## If I taught web development:
+
 - Quick Lesson: Note takeing options with ability to run code snippets 
 - Quick Lesson: run down of what a repo is and 3 commands to learn to start using it 
 - Quick lesson: how to have computer read selected text, the page and turn most webpages into an easy to read format. This allows you to look away if needed to rest your eyes, helps those with learning dissabilities and helps to take notes while progressing through the reading
@@ -133,3 +126,19 @@ Quick Lesson: Where to find help and how to google something you know nothing ab
 - Using any combination of the resources listed above would be better than using one alone 
 - each day's lesson should have summary activities during the lesson and after the lesson. I will summaries to key points for the students and the students will complete an "exit ticket" for sorts to summaries their learning 
 
+### CodeCademy's Front End Engineer Path 
+- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. **Major Key**: Includes check for understanding.
+- Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
+- CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet when completed with the suggested readings. Using Free Code Camp as a warm up would work nicely with CodeCademy and I highly suggest these two for complete beginners. The CodeCademy's Front End Engineer Path is behind a pay wall and cost upwards of $112 a year or a monthly fee to access. Though worth the money, this might not be the best option for someone on a budget. Other free resources listed above are excellent options as well for learning Front End Web development. 
+
+### MDN Web Docs
+- MDN does a few things well: The content is thorough. Detailed explanations are given throughout each lesson. Active learning is incorporated. MDN is excellent for students who want to know more and ask why. **Major Key**: Includes check for understanding.
+- Part of lesson: textbook reading and independent practice 
+
+### Free Code Camp 
+- Free Code Camp does a few things well: Content is easy to start doing without any prior knowledge and no insturctor is required to complete the work. Free Code Camp would be an excellent option as a daily warmup or transition activity for a group who may finish an assignment at different times. Students will need to be taught where to look for help: FCC Forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io. Con: full solutions can be found online
+- Part of lesson: warm up 
+
+### Web Coding & Development a book by Paul McFedries
+- Web Coding & Development for Dummies does a few things well: Content is explained in a straight forward and applicable way. While no practice problems are given, this is a great textbook resource. Code snippets are provided to use in direct instruction/ teacher lead activity or to use as an example. 
+- Part of lesson: textbook reading 
