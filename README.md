@@ -123,12 +123,13 @@ IMPORTANT:
 - Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
 - CodeCademy has all parts of a lesson in one place and is very structured into lesson plans for the user. This is a whole classroom on the internet when completed with the suggested readings. Using Free Code Camp as a warm up would work nicely with CodeCademy and I highly suggest these two for complete beginners. The CodeCademy's Front End Engineer Path is behind a pay wall and cost upwards of $112 a year or a monthly fee to access. Though worth the money, this might not be the best option for someone on a budget. Other free resources listed above are excellent options as well for learning Front End Web development. 
 
-## Lesson Summaries and Review
+## If I taught web development 
 - Quick Lesson: Note takeing options with ability to run code snippets 
 - Quick Lesson: run down of what a repo is and 3 commands to learn to start using it 
 - Quick lesson: how to have computer read selected text, the page and turn most webpages into an easy to read format. This allows you to look away if needed to rest your eyes, helps those with learning dissabilities and helps to take notes while progressing through the reading
-Quick Lesson: Where to find help and how to google something you know nothing about/ problem solving with google (maybe give a highly technical sentence and have students break down the sentence by work and figure out what it means. Do 1 to 3 examples first). Students will need to be taught where to look for help: forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io, discord groups. Con: full solutions can be found online
+Quick Lesson: Where to find help and how to google something you know nothing about/ problem solving with google (maybe give a highly technical sentence and have students break down the sentence by work and figure out what it means. Do 1 to 3 examples first). Students will need to be taught where to look for help: forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io, discord groups. 
 - Quick lesson: 
 - Lesson 6: 
 - Using any combination of the resources listed above would be better than using one alone 
+- each day's lesson should have summary activities during the lesson and after the lesson. I will summaries to key points for the students and the students will complete an "exit ticket" for sorts to summaries their learning 
 
