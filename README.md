@@ -13,7 +13,7 @@ See this repository as a website [here](https://laurenc2022.github.io/web-dev-ed
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects i have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly remember how code renders on a browser.  
 
 ## Free Code Camp 
-- Free Code Camp does a few things well: Content is easy to start doing without any prior knowledge and no insturctor is required to complete the work. Free Code Camp would be an excellent option as a daily warmup or transition activity for a group who may finish an assignment at different times. 
+- Free Code Camp does a few things well: Content is easy to start doing without any prior knowledge and no insturctor is required to complete the work. Free Code Camp would be an excellent option as a daily warmup or transition activity for a group who may finish an assignment at different times. Students will need to be taught where to look for help: FCC Forums, MDN docs, CSS Tricks, https://www.w3schools.com or https://devdocs.io. Con: full solutions can be found online
 - Part of lesson: warm up 
 
 ### Responsive Web Design
@@ -31,7 +31,7 @@ The purpose of posting educational assignments in a repository is to reference c
 - Certification Project 2: Tribute Page
 
 ## MDN Web Docs
-- MDN does a few things well: The content is thorough. Detailed explanations are given throughout each lesson. Active learning is incorporated. MDN is excellent for students who want to know more and ask why. 
+- MDN does a few things well: The content is thorough. Detailed explanations are given throughout each lesson. Active learning is incorporated. MDN is excellent for students who want to know more and ask why. **Major Key**: Includes check for understanding.
 - Part of lesson: textbook reading and independent practice 
 
 ### Semantics and structure with HTML
@@ -119,6 +119,11 @@ IMPORTANT:
 22. Laying content columns with Grid: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/22-Laying-content-columns-with-Grid.html)
 
 ## CodeCademy's Front End Engineer Path 
-- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. 
-- Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading  
+- CodeCademy does a few things well: The content is clearly brocken into sections and lessons. Lessons include readings, videos and active learning materials. **Major key**: Reviews or recaps of information covered is frequent within the lesson and at the end of the lesson. Two books are listed as suggested readings during the course. **Major Key**: Includes check for understanding.
+- Part of lesson: Lecture/direct instruction, independent practice, optional assigned reading 
+
+## Lesson Summaries and Review
+- Useful technologies: Note takeing options with ability to run code snippets 
+- Quick run down of what a repo is and 3 commands to learn to start using it 
+- Lesson 6: 
 
