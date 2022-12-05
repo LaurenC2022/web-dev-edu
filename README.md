@@ -2,11 +2,17 @@
 
 Resources: 
 
-- [Free Code Camp](https://www.freecodecamp.org) 
-- MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) 
-- Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd)
-- Full Stack Web Development course by The App Brewery [Link here](https://appbrewery.com/p/the-complete-web-development-course)
-- [CodeCademy](https://www.codecademy.com)'s Front End Engineer Path 
+- [Free Code Camp](https://www.freecodecamp.org) / [My Notes for Free Code Camp]
+
+- MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) / [My Notes for MDN Web Docs]
+
+- Web Coding & Development a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd) / [My Notes for Web Coding & Dev Book]
+
+- Full Stack Web Development course by The App Brewery [Link here](https://appbrewery.com/p/the-complete-web-development-course) / [My Notes for Full Stack Web Dev by London App Brewery]
+
+- [CodeCademy](https://www.codecademy.com)'s Front End Engineer Path / [My Notes for Code Cademy]
+
+- [Teaching Notes]
 
 See this repository as a website [here](https://laurenc2022.github.io/web-dev-edu/). 
 
@@ -23,7 +29,31 @@ The purpose of posting educational assignments in a repository is to reference c
 - [Certification Project 1: Survey Form](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section1/5-cert-proj-registration-form/survey-form-index.html)
 #### Section 2
 - [Rothko Painting](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section2/6-rhothko-painting/rothko-painting-index.html)
-- Photo Gallery
+- [Photo Gallery](https://laurenc2022.github.io/web-dev-edu/free-code-camp-assignments/responsive-web-design-assignments/section2/7-photo-gallery/photo-gallery.html)
+    - **Flexbox:** has a main and cross axis. The main axis is defined by the flex-direction property, which has four possible values:
+        - **row:** (default): horizontal axis with flex items from left to right
+        - **row-reverse:** horizontal axis with flex items from right to left
+        - **column:** vertical axis with flex items from top to bottom
+        - **column-reverse:** vertical axis with flex items from bottom to top
+        - **Note:** The axes and directions will be different depending on the text direction. The values shown are for a left-to-right text direction.
+    - The flex-wrap property determines how your flex items behave when the flex container is too small. nowrap (default) will prevent your items from wrapping and shrink them if needed
+    - The justify-content property determines how the items inside a flex container are positioned along the main axis, affecting their position and the space around them.
+    -  The align-items property positions the flex content along the cross axis. In this case, with your flex-direction set to row, your cross axis would be vertical
+
+    - Step 16: Give your .gallery selector a padding property set to 20px 10px to create some space around the container.
+        - Then, give it a max-width of 1400px and add a margin of 0 auto to center it
+    - Rather than setting each aspect ratio individually, you can use the object-fit property to determine how images should behave.
+        - Give your .gallery img selector the object-fit property and set it to cover. This will tell the image to fill the img container while maintaining aspect ratio, resulting in cropping to fit Try the different values to see how they affect the layout.
+    - The gap CSS shorthand property sets the gaps, also knowns as gutters, between rows and columns. The gap property and its row-gap and column-gap sub-properties provide this functionality for flex, grid, and multi-column layout. You apply the property to the container element
+
+    -Step 20: The ::after pseudo-element creates an element that is the last child of the selected element. You can use it to add an empty element after the last image. If you give it the same width as the images it will push the last image to the left when the gallery is in a two-column layout. Right now, it is in the center because you set justify-content: center on the flex container.
+
+        Code Snippet: .container::after {
+            content: "";
+            width: 860px;
+        }
+
+When you are done, set an explicit flex-direction of row on the .gallery element.
 - Nutrition Label
 - Building a Quiz 
 - Certification Project 2: Tribute Page
@@ -89,6 +119,8 @@ IMPORTANT:
 16. Trying out fixed positioning: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch3-sizing-and-positioning-page-elements/16-trying-out-fixed-positioning.html)
 
 #### Chaper 4: Creating a Page Layout
+    - **There are 4 options for page layout:** Foats, inline blocks, flexbox, CSS grid 
+
 1. Laying Out Page Elements with Floats: [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/1-Laying-out-page-elements-with-floats.html)
 2. Laying Out Page Elements with Floats (second example): [Link to My Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/2-Laying-out-page-elements-with-floats-ex2.html) 
 3. Laying Out Page Elements with Inline Blocks: [Link to Playground](https://laurenc2022.github.io/web-dev-edu/web-coding-and-development-by-paul-mcfedries/book-two-coding-front-end-p1/ch4-creating-a-page-layout/3-Laying-out-page-elements-with-inline-blocks.html) 
