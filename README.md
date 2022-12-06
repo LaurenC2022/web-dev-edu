@@ -4,7 +4,7 @@ Resources:
 
 - [Free Code Camp](https://www.freecodecamp.org) / [My Notes for Free Code Camp](https://colab.research.google.com/drive/1nTCiklcKIZxZeEZUPiKIG197TgWkPOlJ?usp=sharing)
 
-- MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) / [My Notes for MDN Web Docs](https://laurenc2022.github.io/web-dev-edu/notebooks/mdn_front_end_web_dev_path.ipynb)
+- MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) / [My Notes for MDN Web Docs](https://colab.research.google.com/drive/1Aopm6OiGPhKPCZ2sULikFo2eBR1ORtQN?usp=sharing)
 
 - Web Coding & Development For Dummies a book by Paul McFedries: [Link to Book here](https://www.paulmcfedries.com/books/book.php?title=web-coding-dev-aio-fd) / [My Notes for Web Coding & Dev Book](https://colab.research.google.com/drive/1hYewFZ9yoQjRokzrV06vuhTJD0k5n3oX?usp=sharing)
 
