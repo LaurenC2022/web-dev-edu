@@ -18,7 +18,7 @@ See [this repository as a website](https://laurenc2022.github.io/web-dev-edu/).
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects I have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly reminder on how code renders on a browser. 
 
-Interests: 
+Future Career Interests: 
 
 - [Applying Mathmatics to Web Design](https://www.smashingmagazine.com/2010/02/applying-mathematics-to-web-design/): I would like to gain a masters of computer science, and apply this knowledge to front end development 
 
@@ -26,7 +26,7 @@ Interests:
     - [Building Wordpress Themes]
     - [Building Jekyll Themes]
 
-- [Web Design]: I would like to dapple in web design, UI/UX included 
+- [Web Design]: I would like to learn a little on web design, UI/UX included 
     - [Design Spreads with all Devices]
 
-- [Javascript Games]
+- [Javascript Games for browser]
