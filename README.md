@@ -2,7 +2,7 @@
 
 Resources: 
 
-- [Free Code Camp](https://www.freecodecamp.org) / [My Notes for Free Code Camp]
+- [Free Code Camp](https://www.freecodecamp.org) / [My Notes for Free Code Camp](https://githubtocolab.com/LaurenC2022/web-dev-edu/blob/main/notebooks/fcc-responsivewebdesign.ipynb)
 
 - MDN Web Docs: [Front-end web developer Guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) / [My Notes for MDN Web Docs](https://githubtocolab.com/LaurenC2022/web-dev-edu/blob/main/notebooks/mdn_front_end_web_dev_path.ipynb)
 
