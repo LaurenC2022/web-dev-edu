@@ -14,6 +14,8 @@ Resources:
 
 - [Teaching Notes](https://githubtocolab.com/LaurenC2022/web-dev-edu/blob/main/notebooks/teaching-notes.ipynb): notes if I ever teach web development
 
+- [Workflow notes for Front End Developers](https://githubtocolab.com/LaurenC2022/web-dev-edu/blob/main/notebooks/workflow-notes.ipynb)
+
 See [this repository as a website](https://laurenc2022.github.io/web-dev-edu/). 
 
 The purpose of posting educational assignments in a repository is to reference code snippets and completed projects I have done. I expect this repo will help with recall when I am stuck on a simple project or want to quickly reminder on how code renders on a browser. 
