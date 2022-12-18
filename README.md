@@ -32,3 +32,25 @@ Future Career Interests:
     - [Design Spreads with all Devices]
 
 - [Javascript Games for browser]
+
+- Continueing Education/ Career Development ideas: 
+
+    - Gain entry level knowledge
+        - undergrad. courses: algorithms course in Java 
+        - FCC, Book, MDN, Udemy course,  
+        - Marketable Skills: 
+
+    - Gain work experience in front end software development 
+        - Continue gaining undergrad. courses knowledge and credentials to apply for masters
+        - work as a freelancer, contractor or full time employee 
+
+    - Masters in Computer Science 
+
+    Do I want to go in the technology direction or front end/ design and UI/UX direction? 
+    ...
+    Maybe: 
+    - Lead a team of developers
+    ... 
+    - Gain credentials for CTO 
+
+    Or maybe not? 
