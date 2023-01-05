@@ -1,0 +1,42 @@
+body {
+    color: #333;
+  }
+  
+  a {
+    color: #477ca7;
+  }
+  
+  a:visited {
+    color: #74638f;
+  }
+  
+  #main {
+    background: #eee;
+  }
+  
+  #img-div {
+    background: white;
+  }
+  
+  image{
+    display: block; 
+  }
+  
+  #image {
+    max-width: 100%
+  }
+  
+  figure {
+    display: flex; 
+  }
+  
+  image {
+    float: center; 
+  }
+  
+  figcaption {
+    clear: both; 
+  }
+  
+  
+  
